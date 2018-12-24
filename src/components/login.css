@@ -1,0 +1,95 @@
+.Login{
+  top: 17%;
+  left: 40%;
+  position: absolute;
+}
+
+.login1{
+  width: 500px!important;
+  height: 50px!important;
+  margin-left: 30%;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  position: absolute;
+  top: 20px!important;
+  left: 120px!important;
+}
+
+input{
+  width: 400px;
+  height: 40px;
+  margin-left: 10px;
+  border-radius: 5px;
+}
+
+.loginbutton{
+  position: absolute;
+  top: 180px!important;
+  left: 175px!important;
+}
+
+.login3{
+  width: 500px!important;
+  height: 50px!important;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  position: absolute;
+  top: 100px!important;
+  left: 120px!important;
+}
+
+.company{
+  margin-left: 60%;
+  width: 400px!important;
+  top: -40px!important;
+  position: absolute;
+  left: 160px!important;
+}
+
+.logo{
+  width: 400px;
+  height: 100px;
+  top:37%!important;
+  left: 11%;
+  z-index: 100;
+  position: absolute;
+}
+
+.mainbox{
+  width: 60%;
+  height: 40%;
+  top: 30%;
+  position: absolute;
+  margin-left: 20%;
+  margin-right: 20%;
+  color: #000000!important;
+  background-color: #ffffff!important;
+  border-radius: 5px;
+}
+
+.App{
+  height: 955px!important;
+  color: #eef1f6!important;
+  background-color: #eef1f6!important;
+}
+Button{
+  width: 400px;
+  height: 50px;
+  margin-left: 45%;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  background-color: #0c7cb3;
+  font: roboto!important;
+  color: #ffffff;
+  text-transform: uppercase;
+  font-weight: 600;
+  font-size: 20px;
+}
+
+.forgot{
+  position: absolute;
+  top: 250px!important;
+  right: -580px!important;
+
+}

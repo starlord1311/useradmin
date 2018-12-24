@@ -1,0 +1,321 @@
+label{
+  color: #000000;
+}
+
+.basic{
+  border-radius: 5px;
+  position: absolute;
+  padding-left: -280px;
+  margin-top: 80px;
+  width: 80%;
+  margin-left: 280px;
+  margin-bottom: -200px;
+  height: 00px;
+  padding-top: 800px;
+  top: 100px;
+  background-color: #ffffff!important;
+}
+.basic2{
+  top: 950px;
+  border-radius: 5px;
+  position: absolute;
+  padding-left: -280px;
+  margin-top: 80px;
+  width: 80%;
+  margin-left: 280px;
+  margin-bottom: -200px;
+  height: 00px;
+  padding-top: 300px;
+  background-color: #ffffff!important;
+
+}
+
+.basic3{
+  top: 1300px;
+  border-radius: 5px;
+  position: absolute;
+  padding-left: -280px;
+  margin-top: 80px;
+  width: 80%;
+  margin-left: 280px;
+  margin-bottom: -200px;
+  height: 00px;
+  padding-top: 720px;
+  background-color: #ffffff!important;
+
+}
+
+.add{
+  width: 130px;
+  height: 30px;
+  border-radius: 8px;
+  right: 80px!important;
+  top: 110px!important;
+  margin-right: 20px!important;
+  margin-left: 0px!important;
+  position: absolute;
+}
+
+.title{
+  position: absolute;
+  color: #000000!important;
+  top:50px!important;
+  left:300px!important;
+  font-size: 25px;
+}
+
+.line{
+  position: absolute;
+  top: 60px;
+  color: #000000!important;
+}
+
+.l1{
+  position: absolute;
+  top:15%;
+  right: 50%;
+  margin-top: 30px;
+  margin-bottom: 30px;
+
+}
+
+.l2{
+  position: absolute;
+  top: 25%;
+  right: 50%;
+  width: 600px!important;
+  height: 200px!important;
+
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.l3{
+  position: absolute;
+  top: 38%;
+  right: 50%;
+
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.l4{
+  position: absolute;
+  top: 49%;right: 50%;
+
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.l5{
+  position: absolute;
+  top: 62%;
+  right: 50%;
+
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.l6{
+  position: absolute;
+  top: 75%;
+  right: 5%;
+
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.l7{
+  position: absolute;
+  top:15%;
+  right: 5%;
+
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.l8{
+  position: absolute;
+  top: 25%;
+  right: 5%;
+  margin-top: 30px;
+  margin-bottom: 30px;
+
+}
+
+.l9{
+  position: absolute;
+  top: 38%;
+  right: 5%;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.l10{
+  position: absolute;
+  top: 49%;
+  right: 5%;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.l11{
+  position: absolute;
+  top: 62%;
+  right: 5%;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.radioGroup{
+  width: 20px!important;
+  height: 20px!important;
+}
+
+.form-group
+{
+  width: 300px;
+  left: 30%;
+  top: 8%;
+  position: absolute;
+}
+
+.l12{
+  left: 10%!important;
+  position: absolute;
+  font-weight: 400!important;
+  font-size: 17px!important;
+}
+
+.l13{
+  right: 50%;
+  top: 90px;
+  position: absolute;
+}
+
+.l14{
+  right: 50%;
+  top: 180px;
+  position: absolute;
+}
+
+.l15{
+  right: 5%;
+  top: 90px!important;
+  position: absolute;
+}
+
+.l16{
+  right: 5%;
+  top: 180px;
+  position: absolute;
+}
+
+.l17{
+  right: 50%;
+  top: 90px;
+  position: absolute;
+}
+
+.l18{
+  right: 50%;
+  top: 160px;
+  position: absolute;
+  width: 600px!important;
+  height: 200px!important;
+}
+
+.l19{
+  right: 50%;
+  top: 220px;
+  position: absolute;
+  width: 600px!important;
+  height: 200px!important;
+}
+
+.l20{
+  right: 50%;
+  top: 300px;
+  position: absolute;
+}
+
+.l21{
+    right: 50%;
+    top: 400px;
+    position: absolute;
+}
+
+.l22{
+    right: 50%;
+    top: 500px;
+    position: absolute;
+}
+
+.l23{
+    right: 50%;
+    top: 600px;
+    position: absolute;
+}
+
+.l24{
+    right: 5%;
+    top: 90px;
+    position: absolute;
+}
+
+.l25{
+    right: 5%;
+    top: 160px;
+    position: absolute;
+}
+
+.l26{
+    right: 5%;
+    top: 220px;
+    position: absolute;
+}
+
+.l27{
+    right: 5%;
+    top: 600px;
+    position: absolute;
+}
+
+p{
+  color: #000000!important;
+}
+
+.info{
+  position: absolute;
+  color: #eef1f6;
+  top: 0%;
+  left: 4%;
+  font-size: 24px;
+}
+
+Sidebar{
+  width: 300px!important;
+}
+
+element.style{
+  width: 300px!important;
+}
+
+.bm-burger-button{
+  width: 100px!important;
+  height: 100px!important;
+  color: #000000!important;
+  position: absolute;
+  background-color: #ffff00
+}
+
+.bm-burger-bars{
+  color: #008000!important;
+  position: absolute;
+  left: 0px;
+
+}
+
+.App{
+  height: 3000px!important;
+}

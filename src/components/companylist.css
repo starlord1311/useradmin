@@ -1,0 +1,42 @@
+th{
+  padding-left: 50px!important;
+  padding-right: 50px!important;
+  padding-top: 100px;
+  color: #000000!important;
+}
+
+td{
+  padding-left: 50px!important;
+  padding-right: 50px!important;
+  padding-top: 20px!important;
+  color: #000000!important;
+}
+
+.table1{
+  position: absolute;
+  margin-left: 300px;
+  top: 100px!important;
+}
+
+.table2{
+  position: absolute;
+  top: 110px!important;
+  left: 300px;
+}
+
+.export{
+  position: absolute;
+  top: 110px;
+  right: 500px!important;
+  width: 190px!important;
+  height: 30px!important;
+  font-size: 15px!important;
+}
+.addcompany{
+  position: absolute;
+  top: 110px;
+  right: 250px!important;
+  width: 190px!important;
+  height: 30px!important;
+  font-size: 15px!important;
+}
